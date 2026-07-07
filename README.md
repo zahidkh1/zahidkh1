@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zahid Khan
 ===================================================================================================================================
 
-Robotics Engineer • AI Enthusiast • Full-Stack Developer • Building Intelligent Systems
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Robotics+Engineer+%E2%80%A2+AI+Enthusiast+%E2%80%A2+Full-Stack+Developer+%E2%80%A2+Building+Intelligent+Systems)](https://git.io/typing-svg)
 ---------------------------------------------------------------------------------------
 
 I'm a Robotics and Artificial Intelligence student passionate about designing intelligent systems that solve real-world problems. My interests span robotics, artificial intelligence, embedded systems, IoT, computer vision, and full-stack development. I enjoy transforming ideas into practical solutions by combining hardware and software to build smart, scalable, and impactful technologies. As an active hackathon participant and lifelong learner, I'm constantly exploring emerging technologies, contributing to innovative projects, and expanding my skills through hands-on development. My goal is to build intelligent systems that improve lives and shape the future of automation.
