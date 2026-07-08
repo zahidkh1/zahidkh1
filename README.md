@@ -1,38 +1,181 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Zahid Khan
-===================================================================================================================================
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A2+Robotics+Engineer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A2+AI+Enthusiast)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A2+Full-Stack+Developer)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%80%A2+Building+Intelligent+Systems)](https://git.io/typing-svg)
----------------------------------------------------------------------------------------
+# Hi 👋 I'm Zahid Khan
 
-I'm a Robotics and Artificial Intelligence student passionate about designing intelligent systems that solve real-world problems. My interests span robotics, artificial intelligence, embedded systems, IoT, computer vision, and full-stack development. I enjoy transforming ideas into practical solutions by combining hardware and software to build smart, scalable, and impactful technologies. As an active hackathon participant and lifelong learner, I'm constantly exploring emerging technologies, contributing to innovative projects, and expanding my skills through hands-on development. My goal is to build intelligent systems that improve lives and shape the future of automation.
+### Robotics Engineer • AI Enthusiast • Full-Stack Developer
 
-* 🌍 I'm based in **Bongaigaon, Assam 🇮🇳** • Currently pursuing **B.Tech in Vadodara, Gujarat**
+*"Building robots. Building software. Building myself."*
 
-* 🖥️ See my portfolio at  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1200&color=0EA5E9&center=true&vCenter=true&width=850&lines=Robotics+Engineer;Artificial+Intelligence+Enthusiast;Embedded+Systems+Developer;Building+Intelligent+Systems;Always+Learning+Something+New)](https://git.io/typing-svg)
+
+<img src="image/logo.jpeg" width="180" alt="Zahid Khan"/>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zahidkh1&style=for-the-badge&color=0e75b6)
+![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Robotics%20%26%20AI-blue?style=for-the-badge)
+
+</div>
+
+---
+
+# 🚀 About Me
+
+I'm a **Computer Science Engineering** student specializing in **Robotics & Artificial Intelligence** at **Parul University**.
+
+I'm passionate about building intelligent systems that combine **software, electronics, and AI** to solve real-world problems.
+
+My interests include **Robotics, Artificial Intelligence, Embedded Systems, Computer Vision, IoT, Full-Stack Development, and Open Source**. I enjoy transforming ideas into practical solutions through continuous learning, hackathons, and hands-on engineering projects.
+
+---
+
+# 📌 Quick Information
+
+| | |
+|:--|:--|
+| 🌍 **Location** | Bongaigaon, Assam 🇮🇳 |
+| 🎓 **Currently Studying** | B.Tech in Robotics & Artificial Intelligence |
+| 🏫 **University** | Parul University, Vadodara |
+| 🚀 **Current Project** | Nico – WiFi Controlled Smart Robot |
+| 🧠 **Learning** | ROS2 • Computer Vision • AI Agents • Cloud • DevOps |
+| 🤝 **Open To** | Robotics • AI • IoT • Open Source • Hackathons |
+| 💬 **Motto** | *The best way to learn is by building.* |
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
 <a href="https://superlative-squirrel-c8f581.netlify.app/#page-top">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-* ✉️ Contact me at  
+&nbsp;
+
 <a href="mailto:zahidkhan0719@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-* 🚀 I'm currently working on  
-<a href="https://github.com/zahidkh1/Nico-OS">
-<img src="https://img.shields.io/badge/Nico--OS-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-* 🧠  I'm currently learning ROS2, Computer Vision, Embedded Systems, AI Agents, Full-Stack Development, Cloud Deployment, Git & DevOps.
-* 👥  I'm looking to collaborate on Robotics Projects, AI Applications, Open Source, IoT Solutions, Computer Vision, ESP32/Arduino Projects, Startup Ideas, & Hackathons.
-* 💬  Ask me about I believe the best way to learn is by building. Every project is one step closer to creating technology that makes a real impact.
+&nbsp;
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode-colored.svg" alt="XCode" title="XCode" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" alt="Arduino" title="Arduino" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
- </p>
- 
- ### Socials
- 
-<p align="left"> <a href="https://www.github.com/zahidkh1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.x.com/jueel_18" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a> <a href="https://www.youtube.com/@LivingPrototype" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://www.codepen.io/zahidk1" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://discord.com/users/zahidkhan03853" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
+<a href="https://github.com/zahidkh1">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.linkedin.com/in/zahid-khan-116488322">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.youtube.com/@LivingPrototype">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://x.com/jueel_19">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+&nbsp;
+
+<a href="https://www.instagram.com/khn_zahid_18/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css"/>
+</p>
+
+### Frameworks & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=bootstrap,git,github,vscode,arduino,blender"/>
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,firebase"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🤖 **Nico OS** | WiFi Controlled Smart Robot powered by ESP32 |
+| 🌐 **Portfolio Website** | Personal developer portfolio showcasing projects and achievements |
+| 📹 **Living Prototype** | YouTube channel documenting engineering, robotics, and personal growth |
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zahidkh1&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkh1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkh1&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🤖 Build intelligent robotics systems
+- 🧠 Master Artificial Intelligence
+- 🌐 Become a Full-Stack Developer
+- 🚀 Contribute to impactful Open Source projects
+- 📚 Publish technical content through **Living Prototype**
+- 💼 Secure opportunities in Robotics & AI
+
+---
+
+# 📁 Featured Repository
+
+**Nico – WiFi Controlled Smart Robot**
+
+> An ESP32-powered intelligent robotics platform featuring WiFi control, modular architecture, and scalable embedded software.
+
+🔗 **Repository:**  
+https://github.com/zahidkh1/Nico-OS
+
+---
+
+# 💡 Philosophy
+
+> *"Technology is best learned by building. Every project is an opportunity to solve a problem, improve a skill, and move one step closer to creating something meaningful."*
+
+---
+
+<div align="center">
+
+### ⭐ Thank you for visiting my profile!
+
+**Robotics • Artificial Intelligence • Embedded Systems • Full-Stack Development**
+
+Made with ❤️ by **Zahid Khan**
+
+</div>
