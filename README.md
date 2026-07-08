@@ -363,9 +363,8 @@ Git • GitHub • VS Code • Docker • Postman • Figma • Blender
 # 🤖 Nico OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zahidkh1/Nico-OS/main/images/Nico_Front%20view.jpeg" width="900" alt="Nico OS">
+  <img src="https://raw.githubusercontent.com/zahidkh1/Nico-OS/main/images/front-view.jpeg" width="900" alt="Nico OS Front View">
 </p>
-
 ### **An Intelligent WiFi-Controlled Robotics Platform**
 
 **ESP32 • Embedded Systems • IoT • Robotics**
