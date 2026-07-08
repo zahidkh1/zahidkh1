@@ -363,7 +363,7 @@ Git • GitHub • VS Code • Docker • Postman • Figma • Blender
 # 🤖 Nico OS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zahidkh1/Nico-OS/main/images/front-view.jpeg" width="900" alt="Nico OS Front View">
+  <img src="https://raw.githubusercontent.com/zahidkh1/Nico-OS/main/images/nico-front-view.jpeg" width="900" alt="Nico OS Front View">
 </p>
 ### **An Intelligent WiFi-Controlled Robotics Platform**
 
@@ -518,6 +518,137 @@ From robotics projects and college life to engineering experiments, failures, an
 <div align="center">
 
 ## 💙 "Building one project at a time."
+
+</div>
+
+---
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Dashboard
+
+<div align="center">
+
+### 📊 My Development Journey
+
+*"Every commit is another step toward becoming a better engineer."*
+
+</div>
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zahidkh1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkh1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=zahidkh1&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zahidkh1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=zahidkh1&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+## 📊 Weekly Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+Coming Soon...
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## 💻 Development Philosophy
+
+<div align="center">
+
+```text
+          💡 IDEA
+              │
+              ▼
+        📚 LEARN
+              │
+              ▼
+        ⚙️ BUILD
+              │
+              ▼
+        🧪 TEST
+              │
+              ▼
+      🚀 IMPROVE
+              │
+              ▼
+       🌍 SHARE
+              │
+              ▼
+        🔁 REPEAT
+```
+
+</div>
+
+---
+
+## 📅 2026 Roadmap
+
+```text
+✅ Build Nico OS
+⬜ Add AI Navigation
+⬜ Learn ROS2
+⬜ Build Computer Vision Robot
+⬜ Publish 10 Open Source Projects
+⬜ Reach 100 GitHub Contributions
+⬜ Build an AI Assistant
+⬜ Land a Robotics / AI Internship
+```
+
+---
+
+## ⚡ Fun Facts
+
+- 🤖 I enjoy building robots more than buying them.
+- ☕ My favorite debugging tool is persistence.
+- 🚀 Every project teaches me something new.
+- 📚 I believe learning never stops.
+- 💙 Open Source is one of the best classrooms.
+
+---
+
+<div align="center">
+
+### 🌟 *"Great engineers don't just write code—they build solutions."*
 
 </div>
 
