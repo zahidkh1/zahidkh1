@@ -191,3 +191,160 @@
 
 ---
 
+# <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="35"> Tech Arsenal
+
+<div align="center">
+
+### ⚙️ Building Intelligent Systems with Modern Technologies
+
+*"The right tools don't build great projects—the right engineer does."*
+
+</div>
+
+---
+
+# 🤖 Robotics & Embedded Systems
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,c,cpp"/>
+
+</div>
+
+<p align="center">
+
+⚡ ESP32 • Arduino • Embedded C/C++ • Sensors • Motor Control • OLED Displays • WiFi Communication • IoT
+
+</p>
+
+---
+
+# 🧠 Artificial Intelligence & Computer Vision
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+
+</div>
+
+<p align="center">
+
+Machine Learning • Computer Vision • AI Agents • OpenCV • TensorFlow • Automation
+
+</p>
+
+---
+
+# 🌐 Full-Stack Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,express,mongodb,firebase"/>
+
+</div>
+
+<p align="center">
+
+Responsive Web Apps • REST APIs • Authentication • Database Design
+
+</p>
+
+---
+
+# ☁️ Tools & Development Environment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,figma,blender"/>
+
+</div>
+
+<p align="center">
+
+Git • GitHub • VS Code • Docker • Postman • Figma • Blender
+
+</p>
+
+---
+
+# 🚀 Currently Exploring
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ros,docker,linux"/>
+
+</div>
+
+<table align="center">
+
+| 🌱 Learning | 🎯 Goal |
+|-------------|---------|
+| ROS2 | Autonomous Robotics |
+| Computer Vision | Smart Navigation |
+| AI Agents | Intelligent Automation |
+| Docker | Scalable Deployment |
+| Cloud Computing | Connected Robotics |
+
+</table>
+
+---
+
+# 📊 Technical Expertise
+
+<div align="center">
+
+| Domain | Experience |
+|:-------|:----------:|
+| 🤖 Robotics | ████████░░ 80% |
+| ⚡ Embedded Systems | ████████░░ 80% |
+| 🌐 Web Development | ███████░░░ 70% |
+| 🧠 Artificial Intelligence | ██████░░░░ 60% |
+| 📷 Computer Vision | █████░░░░░ 50% |
+| ☁️ Cloud & DevOps | ████░░░░░░ 40% |
+
+</div>
+
+> **Note:** These bars reflect my current learning journey and evolve as I build more projects.
+
+---
+
+# 💡 Engineering Mindset
+
+<div align="center">
+
+```text
+          IDEA
+            │
+            ▼
+      Research & Learn
+            │
+            ▼
+      Design Solution
+            │
+            ▼
+      Build Prototype
+            │
+            ▼
+      Test & Improve
+            │
+            ▼
+      Deploy & Share
+            │
+            ▼
+      Learn Again 🔁
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Favorite Quote
+
+> **"Great engineers aren't defined by the technologies they know, but by the problems they're willing to solve."**
+
+</div>
+
+---
+
