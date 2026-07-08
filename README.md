@@ -59,3 +59,135 @@
 </div>
 
 ---
+
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> About Me
+
+<div align="center">
+
+### 🚀 Passionate about building intelligent systems through Robotics, AI, and Embedded Engineering.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+
+- 🤖 Robotics & Artificial Intelligence Student
+- 🎓 Studying at **Parul University**
+- 📍 From **Bongaigaon, Assam 🇮🇳**
+- 🏙️ Currently in **Vadodara, Gujarat**
+- 💡 Passionate about solving real-world problems with technology
+- 🌱 Lifelong learner who loves building things from scratch
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚡ Currently
+
+- 🤖 Building **Nico OS**
+- 🧠 Learning **ROS2 & Computer Vision**
+- ⚙️ Exploring **Embedded AI**
+- 🌐 Improving **Full-Stack Development**
+- 🚀 Participating in Hackathons
+- 📚 Expanding Open Source contributions
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🎯 What Drives Me
+
+<div align="center">
+
+| 🤖 Robotics | 🧠 Artificial Intelligence | ⚡ Embedded Systems |
+|:-----------:|:--------------------------:|:------------------:|
+| Building autonomous systems | Developing intelligent solutions | Programming hardware |
+
+| 🌐 Full Stack | 📷 Computer Vision | 🌍 IoT |
+|:-------------:|:------------------:|:------:|
+| Creating modern web apps | Teaching machines to see | Connecting devices intelligently |
+
+</div>
+
+---
+
+# 💼 Current Focus
+
+```text
+📦 Current Project
+└── 🤖 Nico OS
+    ├── ESP32 Powered Robot
+    ├── WiFi Remote Control
+    ├── OLED Interface
+    ├── Obstacle Detection
+    ├── Modular Architecture
+    └── Future AI Integration
+```
+
+---
+
+# 📖 My Journey
+
+```text
+2024
+│
+├── Started Programming 💻
+│
+├── Learned Web Development 🌐
+│
+├── Entered Robotics 🤖
+│
+├── Built ESP32 Projects ⚡
+│
+├── Participated in Hackathons 🏆
+│
+├── Created My Portfolio 🚀
+│
+└── Building Nico OS ❤️
+```
+
+---
+
+# 🌱 Currently Learning
+
+<div align="center">
+
+| Robotics | Artificial Intelligence | Software |
+|-----------|--------------------------|----------|
+| ROS2 | Machine Learning | Docker |
+| Embedded Systems | Computer Vision | Linux |
+| IoT | AI Agents | Git & GitHub |
+| Automation | OpenCV | Cloud Computing |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- 🤖 Build an advanced autonomous robot
+- 🧠 Master Artificial Intelligence & Computer Vision
+- 🌍 Contribute to impactful Open Source projects
+- 🚀 Publish more engineering projects on GitHub
+- 📹 Grow **Living Prototype**
+- 💼 Secure opportunities in Robotics & AI
+
+---
+
+<div align="center">
+
+### 💬 My Philosophy
+
+> **"I believe the best way to learn is by building. Every project is an opportunity to grow, innovate, and create technology that makes a difference."**
+
+</div>
+
+---
+
