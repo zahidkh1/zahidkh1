@@ -348,3 +348,179 @@ Git • GitHub • VS Code • Docker • Postman • Figma • Blender
 
 ---
 
+# <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="35"> Featured Projects
+
+<div align="center">
+
+### 🚀 Turning Ideas into Intelligent Solutions
+
+*Every project is another step toward becoming a better engineer.*
+
+</div>
+
+---
+
+# 🤖 Nico OS
+
+<div align="center">
+
+<img src="images/Nico_Front view.jpeg" width="900"/>
+
+### **An Intelligent WiFi-Controlled Robotics Platform**
+
+**ESP32 • Embedded Systems • IoT • Robotics**
+
+</div>
+
+### ✨ Overview
+
+**Nico OS** is an ESP32-powered intelligent robotics platform designed to combine embedded systems, wireless communication, and modular software architecture into a scalable robotics project.
+
+It serves as a foundation for experimenting with robotics, autonomous systems, and future AI-powered capabilities.
+
+---
+
+### 🚀 Features
+
+- 📡 WiFi-Based Robot Control
+- 🤖 ESP32 Powered
+- 📺 OLED Display Interface
+- 🚧 Obstacle Detection
+- ⚙️ Modular Code Architecture
+- 🔋 Efficient Power Management
+- 🔄 OTA Ready Architecture
+- 🚀 Future AI Integration
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,arduino"/>
+
+</p>
+
+**Hardware**
+
+- ESP32
+- L298N Motor Driver
+- OLED Display
+- Ultrasonic Sensor
+- DC Motors
+- Li-ion Battery
+
+---
+
+<p align="center">
+
+<a href="https://github.com/zahidkh1/Nico-OS">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🌐 Personal Portfolio
+
+<div align="center">
+
+<img src="images/portfolio.png" width="900"/>
+
+### **My Digital Portfolio**
+
+</div>
+
+### ✨ Overview
+
+A responsive portfolio website showcasing my engineering journey, projects, technical skills, achievements, and experiences.
+
+Built with a modern UI to represent my work professionally.
+
+---
+
+### 🚀 Highlights
+
+- Responsive Design
+- Modern User Interface
+- Project Showcase
+- Skills Timeline
+- Certificates
+- Contact Section
+- Smooth Animations
+
+---
+
+<p align="center">
+
+<a href="https://superlative-squirrel-c8f581.netlify.app">
+<img src="https://img.shields.io/badge/Live%20Website-0ea5e9?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 🎥 Living Prototype
+
+<div align="center">
+
+<img src="images/livingprototype.png" width="900"/>
+
+### **Engineering My Journey**
+
+</div>
+
+### ✨ About
+
+Living Prototype is where I document my journey as a Robotics & Artificial Intelligence student.
+
+From robotics projects and college life to engineering experiments, failures, and achievements—this channel captures the process of continuous learning and growth.
+
+---
+
+### 🎬 Content
+
+- 🤖 Robotics Projects
+- 💻 Programming
+- 🏫 College Life
+- ⚡ Engineering Builds
+- 🎯 Productivity
+- 🚀 Personal Growth
+
+---
+
+<p align="center">
+
+<a href="https://www.youtube.com/@LivingPrototype">
+<img src="https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 More Projects Coming Soon...
+
+<div align="center">
+
+| 🚧 | Project | Status |
+|:--:|---------|:------:|
+| 🤖 | Autonomous Robot | 🔄 Planning |
+| 🧠 | AI Vision System | 🔄 Learning |
+| 🌍 | Smart IoT Platform | 🔄 Designing |
+| ⚙️ | ROS2 Navigation Robot | 🔄 Research |
+
+</div>
+
+---
+
+<div align="center">
+
+## 💙 "Building one project at a time."
+
+</div>
+
+---
+
