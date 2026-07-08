@@ -1,73 +1,61 @@
-# 👋 Hi, I'm **Zahid Khan**
+<div align="center">
 
-::: {align="center"}
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Hey, I'm **Zahid Khan**
+
 ### 🤖 Robotics & Artificial Intelligence Student
 
-**Building intelligent systems that bridge hardware, software, and AI.**
+### *Building intelligent systems that bridge hardware, software, and AI.*
 
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Robotics+%26+Artificial+Intelligence+Student;ESP32+Developer;Embedded+Systems;Computer+Vision;Building+Intelligent+Systems"/>`{=html}
-```{=html}
-</p>
-```
-![Profile
-Views](https://komarev.com/ghpvc/?username=zahidkh1&style=for-the-badge&color=blue)
-:::
+<br>
 
-------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=26&pause=1200&color=00D9FF&center=true&vCenter=true&width=900&lines=Robotics+%26+Artificial+Intelligence+Student;Embedded+Systems+Developer;ESP32+%7C+IoT+Developer;Computer+Vision+Enthusiast;Building+Nico+OS;Always+Learning+Something+New...)](https://git.io/typing-svg)
 
-## 🚀 About Me
+<br>
 
--   🎓 B.Tech in Robotics & Artificial Intelligence, **Parul
-    University**
--   📍 From **Bongaigaon, Assam** \| Studying in **Vadodara, Gujarat**
--   🤖 Passionate about Robotics, AI, IoT, Embedded Systems & Full-Stack
-    Development
--   🚀 Building **Nico OS**
--   🌱 Learning ROS2, OpenCV, AI Agents & Cloud
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=260&section=header&text=Welcome%20to%20My%20GitHub&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Robotics%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Embedded%20Systems&descAlignY=60"/>
 
-------------------------------------------------------------------------
+<br><br>
 
-## 🛠 Tech Stack
+<img src="https://komarev.com/ghpvc/?username=zahidkh1&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,arduino,git,github,vscode,linux,docker,firebase"/>`{=html}
-```{=html}
-</p>
-```
+<img src="https://img.shields.io/github/followers/zahidkh1?logo=github&style=for-the-badge"/>
 
-------------------------------------------------------------------------
+<img src="https://img.shields.io/github/stars/zahidkh1?affiliations=OWNER&style=for-the-badge"/>
 
-## 🌐 Connect
+<img src="https://img.shields.io/badge/Open%20Source-Lover-success?style=for-the-badge"/>
 
--   Portfolio: https://superlative-squirrel-c8f581.netlify.app
--   LinkedIn: https://www.linkedin.com/in/zahid-khan-116488322
--   YouTube: https://www.youtube.com/@LivingPrototype
--   Email: zahidkhan0719@gmail.com
+<img src="https://img.shields.io/badge/Focus-Robotics%20%26%20AI-0ea5e9?style=for-the-badge"/>
 
-------------------------------------------------------------------------
+<br><br>
 
-## 📊 GitHub Stats
+> ### 💭 *"The future isn't something we wait for. It's something we build."*
 
-```{=html}
-<p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=zahidkh1&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahidkh1&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=zahidkh1&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
-</p>
-```
-## 💡 Quote
+</div>
 
-> Building robots. Building software. Building the future.
+---
+
+<div align="center">
+
+## ⚡ Engineering Tomorrow, One Project at a Time
+
+</div>
+
+> I’m **Zahid Khan**, a **Robotics & Artificial Intelligence** student at **Parul University**, originally from **Bongaigaon, Assam 🇮🇳**.
+>
+> My passion lies in building intelligent systems that combine **Robotics**, **Artificial Intelligence**, **Embedded Systems**, **Computer Vision**, and **IoT** to solve real-world challenges.
+>
+> Whether it's designing autonomous robots, developing embedded software, or exploring the future of AI, I'm constantly learning, building, and sharing my journey.
+
+<br>
+
+<div align="center">
+
+### 🚀 *Currently Building*
+
+## 🤖 Nico OS
+
+*A WiFi-Controlled Smart Robotics Platform powered by ESP32*
+
+</div>
+
+---
