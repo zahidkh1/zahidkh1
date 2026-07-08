@@ -364,7 +364,9 @@ Git • GitHub • VS Code • Docker • Postman • Figma • Blender
 
 <div align="center">
 
-<img src="images/Nico_Front view.jpeg" width="900"/>
+<img
+src="https://raw.githubusercontent.com/zahidkh1/Nico-OS/main/images/Nico_Front%20view.jpeg"
+width="900">
 
 ### **An Intelligent WiFi-Controlled Robotics Platform**
 
@@ -426,7 +428,7 @@ It serves as a foundation for experimenting with robotics, autonomous systems, a
 
 <div align="center">
 
-<img src="images/portfolio.png" width="900"/>
+<img src="https://raw.githubusercontent.com/zahidkh1/portfolio/main/image/portfolio-preview.png" width="900" alt="Portfolio Preview"/>
 
 ### **My Digital Portfolio**
 
@@ -466,7 +468,7 @@ Built with a modern UI to represent my work professionally.
 
 <div align="center">
 
-<img src="images/livingprototype.png" width="900"/>
+<img src="https://raw.githubusercontent.com/zahidkh1/portfolio/main/image/logo.jpeg" width="180" alt="Logo"/>
 
 ### **Engineering My Journey**
 
