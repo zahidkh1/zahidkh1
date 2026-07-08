@@ -12,7 +12,7 @@ I'm a Robotics and Artificial Intelligence student passionate about designing in
 * 🌍  I'm based in Bongaigaon, Assam 🇮🇳 • Currently pursuing B.Tech in Vadodara, Gujarat
 * 🖥️  See my portfolio at [Portfolio Website](http://superlative-squirrel-c8f581.netlify.app)
 * ✉️  You can contact me at [zahidkhan0719@gmail.com](mailto:zahidkhan0719@gmail.com)
-* 🚀  I'm currently working on [Nico – WiFi Controlled Smart Robot](http://github.com/zahidkh1/Nico-WiFi-Controlled-Smart-Robot)
+* 🚀  I'm currently working on [Nico – WiFi Controlled Smart Robot]https://github.com/zahidkh1/Nico-OS
 * 🧠  I'm currently learning ROS2, Computer Vision, Embedded Systems, AI Agents, Full-Stack Development, Cloud Deployment, Git & DevOps.
 * 👥  I'm looking to collaborate on Robotics Projects, AI Applications, Open Source, IoT Solutions, Computer Vision, ESP32/Arduino Projects, Startup Ideas, & Hackathons.
 * 💬  Ask me about I believe the best way to learn is by building. Every project is one step closer to creating technology that makes a real impact.
